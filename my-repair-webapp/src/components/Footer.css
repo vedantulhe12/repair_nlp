@@ -1,0 +1,20 @@
+.footer-container {
+  padding: 2rem;
+  text-align: center;
+  background-color: var(--color-surface);
+  border-top: 1px solid var(--color-primary);
+  color: var(--color-text-muted);
+  font-size: 0.9rem;
+}
+
+.footer-container p {
+  margin: 0.5rem 0;
+}
+
+.footer-container a {
+  color: var(--color-primary);
+  text-decoration: none;
+}
+.footer-container a:hover {
+  text-decoration: underline;
+}

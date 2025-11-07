@@ -1,0 +1,11 @@
+fastapi[all]
+uvicorn[standard]
+pydantic
+torch
+transformers
+sentencepiece
+scikit-learn
+sentence-transformers
+joblib
+numpy
+huggingface-hub>=0.20.0,<1.0
